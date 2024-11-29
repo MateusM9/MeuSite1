@@ -1,0 +1,22 @@
+.form-container {
+    background-color: transparent;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 400px;
+}
+
+.enviar {
+    background-color: #3D9CE5;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+}
+.enviar:hover, .portifolio:hover {
+    background-color: #3077ae; 
+}
+
